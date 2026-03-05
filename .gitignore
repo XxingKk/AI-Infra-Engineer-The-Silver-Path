@@ -1,6 +1,5 @@
 # customized
 build/
-build_*/
 
 # Prerequisites
 *.d
